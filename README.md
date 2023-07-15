@@ -1,4 +1,4 @@
-# HTML-Chat-Application-using-java
+# HTML Chat Application using java
 
 The HTML Chat Application is a real-time chat platform that supports basic HTML tags and allows users to communicate with their friends while experimenting and learning HTML. This application provides an interactive and educational chatting experience, making it ideal for beginners interested in HTML.
 
