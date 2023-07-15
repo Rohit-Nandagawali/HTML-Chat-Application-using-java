@@ -21,7 +21,10 @@ The HTML Chat Application is a real-time chat platform that supports basic HTML 
 The HTML Chat Application is a simple and user-friendly chat platform designed to facilitate real-time communication between users. Its unique feature is the support for basic HTML tags, enabling users to format their messages creatively and learn HTML while chatting with their friends.
 
 ## Demo
-[Insert link to live demo or GIF demonstrating the application in action]
+
+https://github.com/Rohit-Nandagawali/MovieApp-react-native/assets/85486891/a0d124b0-4c36-43cb-bb5c-e8262657c71f
+
+
 
 ## Technology Used
 - Java: The primary programming language used for building the chat client and server.
@@ -39,22 +42,25 @@ The HTML Chat Application utilizes the following programming concepts:
 1. Clone this repository to your local machine using `git clone`.
 2. Open the project in your Java IDE (e.g., Eclipse, IntelliJ).
 3. Compile and Run the `Server.java` file to start the chat server, which will listen for incoming connections.
+
    ```
    javac Server.java
    java Server
    ```
 4. Only Compile the `Client.java` file, so will able to create Client instance in CreateUser.
+
    ```
    javac Client.java
    ```
-5. Compile and Run the `CreateUser.java` file to create a new user (client).
+7. Compile and Run the `CreateUser.java` file to create a new user (client).
+
    ```
    javac CreateUser.java
    java CreateUser
    ```
-6. Enter your desired username and select a theme color.
-7. Click the "Create User" button to launch the chat client.
-8. The chat client window will open, allowing you to enter messages in the text field and click "Send" to communicate with other users.
+8. Enter your desired username and select a theme color.
+9. Click the "Create User" button to launch the chat client.
+10. The chat client window will open, allowing you to enter messages in the text field and click "Send" to communicate with other users.
 
 ## Features
 1. Real-time Chat: Users can send and receive messages instantly, providing a seamless chatting experience.
@@ -102,13 +108,14 @@ The HTML Chat Application aims to provide a user-friendly, interactive, and educ
 
 ## Sample Inputs
 Try by sending these messages.
-1. 
+1.
 ```
 <h1>hello</h1>
 ```
 2. 
+
 ```
-![Good Morning](https://static.javatpoint.com/htmlpages/images/good-morning.jpg)
+ <img src="https://static.javatpoint.com/htmlpages/images/good-morning.jpg"></img>
 ```
 3. 
 ```
