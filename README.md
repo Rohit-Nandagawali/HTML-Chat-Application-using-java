@@ -22,7 +22,8 @@ The HTML Chat Application is a simple and user-friendly chat platform designed t
 
 ## Demo
 
-https://github.com/Rohit-Nandagawali/MovieApp-react-native/assets/85486891/a0d124b0-4c36-43cb-bb5c-e8262657c71f
+https://github.com/Rohit-Nandagawali/HTML-Chat-Application-using-java/assets/85486891/fc17a8e6-d98b-4bcd-a1e0-56a1d846e204
+
 
 
 
